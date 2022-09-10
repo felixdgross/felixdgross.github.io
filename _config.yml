@@ -10,8 +10,8 @@
 ############################
 
 # Name of website
-title: truthis
-       whatworks
+title: 'truthis' +
+       'whatworks'
 
 # Your name to show in the footer
 #author: some author
