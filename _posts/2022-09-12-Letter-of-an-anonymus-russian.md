@@ -8,7 +8,7 @@ thumbnail-img: /assets/img/moscowsnow.jpg
 #share-img: /assets/img/path.jpg
 tags: [politics, society, human understanding, world, russia]
 ---
-A friend asked me to share this letter. It does not neccessarily express my view.
+A Russian friend asked me to share this letter she wrote in the first days of the Russian invasion of Ukraine. It does not necessarily reflect my opinion:
 
 This letter is written by a Russian, it is written by a political scientist who fought against the unrightful regime in order to stop the war. I send it to my beloved people of the West as I want to explain what’s going on in Russia right now, what the West is doing to Russia and why the current sanctions are unable to stop the war in Ukraine. I ask you to read this letter to the end and share it among western citizens because they have no idea what has been happening in Russia all along. The western perception of mentioned countries which have other cultures and different politics is twisted by wealthy and democratic experience.
 
