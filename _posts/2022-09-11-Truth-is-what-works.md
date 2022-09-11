@@ -3,7 +3,7 @@ layout: post
 title: Truth is what works
 subtitle: Never forget the instrumental function of reality
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/pexels-george-becker-134402.jpg
 share-img: /assets/img/path.jpg
 tags: [ideas, epistemology, human understanding]
 ---
