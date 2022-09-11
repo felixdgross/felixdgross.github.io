@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Letter of an anonymus russian
-subtitle: Trying to understand better the russian fabric in 2022
+subtitle: Trying to better understand the russian fabric in 2022
 #cover-img: /assets/img/path.jpg
 social-share: true
 thumbnail-img: /assets/img/moscowsnow.jpg 
 #share-img: /assets/img/path.jpg
 tags: [politics, society, human understanding, world, russia]
 ---
-This letter does not neccessarily express my view:
+A good friend asked me to share this letter. It does not neccessarily express my view.
+
 This letter is written by a Russian, it is written by a political scientist who fought against the unrightful regime in order to stop the war. I send it to my beloved people of the West as I want to explain what’s going on in Russia right now, what the West is doing to Russia and why the current sanctions are unable to stop the war in Ukraine. I ask you to read this letter to the end and share it among western citizens because they have no idea what has been happening in Russia all along. The western perception of mentioned countries which have other cultures and different politics is twisted by wealthy and democratic experience.
 
 Russia attacked Ukraine on February 24, shelling Ukrainian cities early in the morning, without warning or declaration of war. The same way the Nazis attacked the USSR in 1941. Any sane person will see this similarity. Russia announced the demilitarization and denazification of Ukraine. Russia decided to arrange it by destroying the houses of Ukrainians, killing defenseless civilians and children. The Russian authorities are war criminals who must be tried and punished to the fullest extent of the law. The Russians themselves are also responsible for what happened: blind, cowardly and divided, we are ready to turn a blind eye to massacres (even of our own compatriots) in order just to feel a little safer.
