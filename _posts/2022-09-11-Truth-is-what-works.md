@@ -4,7 +4,7 @@ title: Truth is what works
 subtitle: Never forget the instrumental function of reality
 #cover-img: /assets/img/path.jpg
 social-share: false
-thumbnail-img: /assets/img/pexels-george-becker-134402.jpg
+#thumbnail-img: /assets/img/pexels-george-becker-134402.jpg
 #share-img: /assets/img/path.jpg
 tags: [ideas, epistemology, human understanding]
 ---
