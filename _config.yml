@@ -19,7 +19,7 @@ title: truthiswhatworks
 # --- List of links in the navigation bar --- #
 ###############################################
 
-#navbar-links:
+navbar-links:
 about: "about.md"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
