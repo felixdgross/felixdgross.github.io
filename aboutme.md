@@ -1,16 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: Trying to superspread thoughts. 
 ---
+One often assumes knowledge is absolute and universally accessible. But mostly we search for what we know only. Knowlege rather spreads like a virus, from social circle to social circle. Thus this site should help me be a superspreader of thoughts in my social circles. I want to spread interesting, rarely novel, rather naïve thoughts in the fields of psychology, philosophy and climate change.  
+Other than that I use it as an incentive to write more, signal my virtues and hopefully spark discussion. 
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+You can leave anonymus feedback or thoughts [here](https://www.admonymous.co/felix_gross)
