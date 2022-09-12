@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Letter of an anonymus russian
-subtitle: Trying to better understand the russian fabric in 2022
+subtitle: Trying to better understand the russian fabric 
 #cover-img: /assets/img/path.jpg
 social-share: true
 thumbnail-img: /assets/img/moscowsnow.jpg 
