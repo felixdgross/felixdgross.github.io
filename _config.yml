@@ -20,7 +20,7 @@ title: truthiswhatworks
 ###############################################
 
 navbar-links:
-about: "about.md"
+about: "about"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
