@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Truth is what works
+title: Truth is what's needed
 subtitle: Never forget the instrumental function of reality
 #cover-img: /assets/img/path.jpg
 social-share: false
