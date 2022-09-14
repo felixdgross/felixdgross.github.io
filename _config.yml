@@ -21,7 +21,7 @@ title: truthiswhatsneeded
 
 navbar-links:
   about: "about"
-  german: "german"
+  #german: "german"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
