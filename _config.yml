@@ -21,6 +21,7 @@ title: truthiswhatsneeded
 
 navbar-links:
   about: "about"
+  german: "german"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
@@ -117,7 +118,7 @@ edit_page_button: true
 navbar-var-length: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "felixdgross,felix gross,felix,gross"
+keywords: "felixdgross,felix daniel gross,felix daniel,gross, felix"
 
 ######################################
 # --- Colours / background image --- #
