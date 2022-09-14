@@ -2,7 +2,7 @@
 layout: post
 title: Truth is what's needed
 subtitle: Never forget the instrumental function of reality
-#cover-img: /assets/img/path.jpg
+cover-img: /assets/img/socialchasm.jpg
 social-share: false
 thumbnail-img: /assets/img/pexels-george-becker-134402.jpg
 #share-img: /assets/img/path.jpg
