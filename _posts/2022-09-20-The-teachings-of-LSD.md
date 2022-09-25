@@ -8,7 +8,7 @@ thumbnail-img: /assets/img/nebula.jpg
 #share-img: /assets/img/path.jpg
 tags: [drugs, consciousness, religion, meditation]
 ---
-One of theses so different viewpoints/stances on reality is beutifully expressed in the poem "please call me by my true names" by Thich Nhat Hanh:
+One of theses so different viewpoints sometimes brought is beautifully expressed in the poem "please call me by my true names" by Thich Nhat Hanh:
 
 Don’t say that I will depart tomorrow —<br>
 even today I am still arriving.
